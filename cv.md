@@ -16,7 +16,7 @@ console.log(rsschool)
 ```
 ## Work experience:
 Not yet
-CV: 
+CV: https://github.com/kataerina/rsschool-cv/blob/gh-pages/cv.md
 ## Courses:
 JS / FRONT-END. STAGE 0 (RU)
 ## Languages:
