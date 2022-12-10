@@ -1,5 +1,5 @@
 # Ekaterina Rid
-![me](Путь к файлу "me")
+![kate](https://user-images.githubusercontent.com/119902350/206826249-224f1632-d56d-4377-ae7c-e1208d1baa15.jpg)
 ## Contacts:
 * E-mail: terytest@yandex.ru
 * Discord: Katerina#9051
