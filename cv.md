@@ -1,5 +1,5 @@
 # Ekaterina Rid
-![kate](https://user-images.githubusercontent.com/119902350/206826249-224f1632-d56d-4377-ae7c-e1208d1baa15.jpg)
+![kate](https://user-images.githubusercontent.com/119902350/208076146-74375243-95aa-439e-9f0b-75b204072afa.jpg)
 ## Contacts:
 * E-mail: terytest@yandex.ru
 * Discord: Katerina#9051
